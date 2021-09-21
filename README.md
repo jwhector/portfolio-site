@@ -2,9 +2,9 @@
 
 ## Jared Hector's First Portfolio Site
 
-![portfolio site](./assets/images/portfolio-screenshot.jpg)
+![portfolio site](/assets/images/portfolio-screenshot.jpg)
 
-
+https://jwhector.github.io/portfolio-site/
 
 With this website, I wanted to capture the feeling of incoming fall. In effort to align with demo guidelines, there is a header with navigation functionality to the three main sections of the page: "About", "Works", and "Contact".
 
