@@ -2,7 +2,7 @@
 
 ## Jared Hector's First Portfolio Site
 
-![portfolio site](/assets/images/portfolio-screenshot.jpg)
+![portfolio site](assets/images/portfolio-screenshot.jpg)
 
 https://jwhector.github.io/portfolio-site/
 
