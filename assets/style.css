@@ -132,7 +132,7 @@ figure img {
 }
 
 .featured a:hover h3 {
-    left: -21px;
+    left: -5%;
 }
 
 .work-imgs {
@@ -173,7 +173,7 @@ figure img {
 }
 
 .work-imgs a:hover > h3 {
-    left: -10px;
+    left: -5%;
     /* background-color: chartreuse; */
 }
 
