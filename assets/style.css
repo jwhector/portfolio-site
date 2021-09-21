@@ -189,6 +189,9 @@ figure img {
     display: flex;
     align-items: center;
     justify-content: space-around;
+    white-space: nowrap;
+    flex-direction: column;
+
 }
 
 .contact-info * {
