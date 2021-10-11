@@ -121,18 +121,19 @@ figure img {
     font-style: bold;
     /* display: inline-block; */
     display: block;
-    padding: 10px;
+    padding: 10px 20px;
 }
 
 .featured img:hover {
     max-width: 110%;
-    max-height: 110%;
+    /* max-height: 110%; */
     width: 110%;
-    margin: -5%;
+    transform: translate(-5%);
+    /* margin: -5%; */
 }
 
 .featured a:hover h3 {
-    left: -5%;
+    left: -5.55%;
 }
 
 .work-imgs {
@@ -169,11 +170,12 @@ figure img {
 .work-imgs img:hover {
     max-width: 110%;
     width: 110%;
-    margin: -5%;
+    /* margin: -5%; */
+    transform: translate(-5%);
 }
 
 .work-imgs a:hover > h3 {
-    left: -5%;
+    left: -6%;
     /* background-color: chartreuse; */
 }
 
