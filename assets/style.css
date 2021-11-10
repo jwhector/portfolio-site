@@ -124,16 +124,9 @@ figure img {
     padding: 10px 20px;
 }
 
-.featured img:hover {
-    max-width: 110%;
-    /* max-height: 110%; */
-    width: 110%;
-    transform: translate(-5%);
-    /* margin: -5%; */
-}
-
-.featured a:hover h3 {
-    left: -5.55%;
+.featured:hover {
+    transform: scale(1.05);
+    transition: transform .2s;
 }
 
 .work-imgs {
@@ -167,16 +160,14 @@ figure img {
     padding: 10px;
 }
 
-.work-imgs img:hover {
-    max-width: 110%;
-    width: 110%;
+.work-imgs:hover {
+    /* max-width: 110%; */
+    /* width: 110%; */
     /* margin: -5%; */
-    transform: translate(-5%);
-}
-
-.work-imgs a:hover > h3 {
-    left: -6%;
-    /* background-color: chartreuse; */
+    /* transform: translate(-5%); */
+    /* transform: rotate(0.5turn); */
+    transform: scale(1.05);
+    transition: transform .2s;
 }
 
 .imgs .captions {
