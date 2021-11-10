@@ -145,6 +145,8 @@ figure img {
 
 .work-imgs img {
     max-width: 100%;
+    height: 100%;
+    object-fit: cover;
     border: 5px solid #bb3e03ff;
     display: inline-block;
 }
@@ -160,7 +162,7 @@ figure img {
     padding: 10px;
 }
 
-.work-imgs:hover {
+.work-img:hover {
     /* max-width: 110%; */
     /* width: 110%; */
     /* margin: -5%; */
